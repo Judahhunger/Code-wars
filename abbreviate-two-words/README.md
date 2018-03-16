@@ -1,0 +1,1 @@
+looked at the MDN docs and found split and charAT to solve this kata.
