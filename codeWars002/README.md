@@ -1,0 +1,1 @@
+Sort an array of 3 strings and make the first index the last and last the first.
